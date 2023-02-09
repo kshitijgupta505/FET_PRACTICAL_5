@@ -23,3 +23,9 @@ working days of an employee to calculate his salary. (Create an object having 2 
 namely name and working days per month, for each employee. Then compute the salary of
 each employee.)
 ** Take at least 5 employees in an object.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Language We Use:
+<b>JAVA</b>
+<b>CSS</b>
+<b>HTML</b>
